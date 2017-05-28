@@ -1,0 +1,11 @@
+Quality Assurance                                                                    |                  Quality Control
+QA makes sure you the activities for ensuring quality               QC is set of activities for ensuring quality in     
+In the processes by which product are developed                    the product focusing on identifying defect in Products.
+                                                                                                             
+So from above definition we see difference between QA and QC.
+Now in term of Car Manufacturing company a QA job is to watch and make sure the process of the Manufacturing is done right by following all the rule and regulation QA job is to conduct checkpoint and making sure the car manufacturing complete in time .
+It is an managerial tool.An QC job is to find any defect in the car that is manufactured by the company like failure of brake, windshield, engine failure e.t.c and report the management to corrected them so that customer  are satisfied with the car .   
+
+           
+
+

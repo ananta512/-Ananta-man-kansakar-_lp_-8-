@@ -1,0 +1,11 @@
+If a client of want a custom designed/printed T-shirt manufacturing company ,then I would suggest the client to go for websites for startup. As a PM I would to go with agile model to be followed for website development as it better for a startup company. Role as PM would be-
+1. Customer Collaboration
+2. Responding to change
+3. Time estimation
+4. Controlling Quality
+Now for planning the developing of the website we go into different steps
+1.	First we collected all the feature our customer desirer and make a development plan and time frame to give to the developer and coder .
+2.	Each worker are divided in initial phase of development form developer to tester.
+3.	To monitor the project development I as PM would weekly meeting to discuss the  progress for website.
+4.	As an e-commerce sites our main priority is to satisfied the customer who are visiting the sites ,so UI must be simple and easy to use
+5.	All the testing, maintenance, upgrades should be done as accordingly
